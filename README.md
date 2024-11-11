@@ -13,7 +13,7 @@ At the core of the proposed methodology lies the use of the Continuous Wavelet T
 
 Version 1.0 created by Hera Yanni, first release: 11th of November, 2024.
 
-How to run
+## How to run
 Download the files and run the main MAIN_gen_single_accel.m in MATLAB
 
 Run the MAIN_gen_single_accel.m in MATLAB online (no license is needed for MATLAB online) by clicking on this link https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/WaveletGenArtifAccel,
@@ -25,7 +25,8 @@ Needs to login to a MATLAB account, the working interface is this:
 
 ![image](https://github.com/user-attachments/assets/b8fb67b3-2cec-4b2b-9df1-deb084f519ce)
 
-Copyright Notice
+## Copyright Notice
+
 The present software files, created by Hera Yanni, can be freely employed, downloaded, and shared with others as long as proper credit is attributed to the creator:
 
 Hera Yanni (c) 2024
