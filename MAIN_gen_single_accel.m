@@ -163,7 +163,6 @@ region = 4;
 z1 = 999;
 
 % PGA
-%[ag ~] = BA_2008_nga (M, 0, Rjb, Fault_Type, Vs30);
 [PGA sigma_ag] = gmpe_bssa_2014(Mw, 0, Rjb, Fault_Type, region, z1, Vs30);
 
 ag = PGA*g;
