@@ -8,6 +8,9 @@ Yanni H., Fragiadakis M., and Mitseas I.P.
 "Wavelet-based stochastic model for the generation of fully non-stationary bidirectional seismic accelerograms". 
 Earthquake Engineering and Structural Dynamics. In review.
 
+The model operates in the time-frequency domain and combines spectral representation techniques with signal processing tools. The basis of the methodology involves the generation of spectrum-compatible stationary artificial accelerogram signals whose non-stationarity is then modeled with a time-frequency modulating function that is based on a seed ground motion record. 
+At the core of the proposed methodology lies the use of the Continuous Wavelet Transform (CWT). Specifically, the CWT method is used to perform time-frequency analysis and to define the non-stationary component. The proposed methodology provides any required number of seismic accelerograms whose temporal and spectral modulation is consistent with the characteristics of the site of interest.
+
 Version 1.0 created by Hera Yanni, first release: 11th of November, 2024.
 
 How to run
@@ -20,10 +23,7 @@ or pressing this button Open in MATLAB Online
 
 Needs to login to a MATLAB account, the working interface is this:
 
-
-
-Main features:
-The target spectrum can be a smooth code spectrum or a GMM
+![image](https://github.com/user-attachments/assets/b8fb67b3-2cec-4b2b-9df1-deb084f519ce)
 
 Copyright Notice
 The present software files, created by Hera Yanni, can be freely employed, downloaded, and shared with others as long as proper credit is attributed to the creator:
