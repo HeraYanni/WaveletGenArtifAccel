@@ -1,4 +1,4 @@
-# WaveletGenArtifAccel
+# Wavelet-based stochastic model for the generation of fully non-stationary seismic accelerograms
 
 Tool for generating target spectrum-compatible fully-nonstationary artificial seismic ground motions using the Continuous Wavelet Transform and a seed record. 
 
