@@ -6,7 +6,8 @@ Further details are provided in the following document:
 
 Yanni H., Fragiadakis M., and Mitseas I.P. 
 "Wavelet-based stochastic model for the generation of fully non-stationary bidirectional seismic accelerograms". 
-Earthquake Engineering and Structural Dynamics. In review.
+Earthquake Engineering and Structural Dynamics. 
+https://doi.org/10.1002/eqe.4315
 
 The model operates in the time-frequency domain and combines spectral representation techniques with signal processing tools. The basis of the methodology involves the generation of spectrum-compatible stationary artificial accelerogram signals whose non-stationarity is then modeled with a time-frequency modulating function that is based on a seed ground motion record. 
 At the core of the proposed methodology lies the use of the Continuous Wavelet Transform (CWT). Specifically, the CWT method is used to perform time-frequency analysis and to define the non-stationary component. The proposed methodology provides any required number of seismic accelerograms whose temporal and spectral modulation is consistent with the characteristics of the site of interest.
